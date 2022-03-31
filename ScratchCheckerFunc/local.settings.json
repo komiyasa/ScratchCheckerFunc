@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "BlobAccessKey": "DefaultEndpointsProtocol=https;AccountName=storagesccdemo;AccountKey=WP5Jzwkep1qMJ7YmN5u1pluKI2S1FhWnSx9faER8wKhJ/4TmWjU1f7wo7MJ15kD3tnstsutPINJfB85dQ9eZpQ==;EndpointSuffix=core.windows.net",
+    "DetectApiEndpoint": "https://cognitive-scc-metro.cognitiveservices.azure.com/customvision/v3.0/Prediction/e836866f-9e2c-4192-9624-db73346ee636/detect/iterations/Iteration1/image",
+    "ClassApiEndpoint": "https://cognitive-scc-metro.cognitiveservices.azure.com/customvision/v3.0/Prediction/ef6b3eba-2615-49b8-b483-d66a61759432/classify/iterations/Iteration1/image",
+    "DetectProbabilityThreshold": "0.7",
+    "OkProbabilityThreshold": "0.5"
+  }
+}
